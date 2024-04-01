@@ -53,7 +53,7 @@ SELECT *
  INNER JOIN Book AS b
     ON o.bookid = b.bookid;
 
--- 책 가격이 20,000원 이상인 도서를 주뭄ㄴ한 고객의 이름과 도서명 조회
+-- 책 가격이 20,000원 이상인 도서를 주문한 고객의 이름과 도서명 조회
 SELECT c.[name]
 	 , b.bookname
 	 , o.saleprice
