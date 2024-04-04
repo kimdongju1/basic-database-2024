@@ -285,7 +285,7 @@ RT 쿼리에 한글 입력되는 컬럼은 N'' 을 붙혀줌(유니코드로 입
 
         
 
-https://github.com/kimdongju1/basic-database-2024/assets/158007459/fde339ba-6d2b-4183-abea-f2e4dd73c242
+https://github.com/kimdongju1/basic-database-2024/assets/158007459/668c95cb-fb51-4526-948f-f346c08b52e1
 
 
         
