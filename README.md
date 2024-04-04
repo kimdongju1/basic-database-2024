@@ -275,10 +275,20 @@ IoT 개발자과정 SQLServer 학습 리포지토리
     - 문제점 - 한글 깨짐문제
         1. DB 테이블의 varchar(ASCII) -> nvarchar(UTF-8) 변경
         2. Python에서 pymssql로 접속할 때, Charset을 'UTF-8'로 설정
-        3. INSERT 쿼리에 한글 입력되는 컬럼은 N'' 을 붙혀줌(유니코드로 입력하라는 뜻)
+        3. INSE
+
+
+
+RT 쿼리에 한글 입력되는 컬럼은 N'' 을 붙혀줌(유니코드로 입력하라는 뜻)
 
     - 실행화면
 
+        
+
+https://github.com/kimdongju1/basic-database-2024/assets/158007459/fde339ba-6d2b-4183-abea-f2e4dd73c242
+
+
+        
 ## 7일차
 - SQL 고급
     - 트랜젝션
